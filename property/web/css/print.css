@@ -1,0 +1,428 @@
+a:link, a:active, a:visited {
+	font-family: Tahoma, Arial;
+	color: #004671;
+	text-decoration: none;
+	font-size: 10px;
+	font-weight: normal;
+}
+a:hover {
+	font-family: Tahoma, Arial;
+	color: #004671;
+	text-decoration: underline;
+	text-decoration: underline;
+	font-size: 10px;
+	font-weight: normal;
+}
+a.link:link, a.link:active, a.link:visited {
+	font-family: Tahoma, Arial;
+	color: #383E4B;
+	text-decoration: none;
+	font-size: 11px;
+	font-weight: bold;
+}
+a.link:hover {
+	font-family: Tahoma, Arial;
+	color: #FFFFFF;
+	text-decoration: underline;
+	background-color: #00629D;
+	font-size: 11px;
+	font-weight: bold;
+	text-transform: none;
+}
+BODY {
+	font-weight: normal;
+}
+TR.Header{
+	background-color:#e7e7e7;
+}
+TR.HeaderBlue{
+	background-color:#D0DCE0;
+}
+TD.HeaderLeft{
+	font: bold 11px Tahoma, Arial;
+	color: #747877;
+	text-decoration:none;
+	font-size:9px; 
+	border-left:thin; 
+	border-left-style:solid; 
+	border-top:thin; 
+	border-top-style:solid;
+}
+TD.HeaderMiddle{
+	font: bold 11px Tahoma, Arial;
+	color: #747877;
+	text-decoration:none;
+	font-size:9px; 
+	border-left:thin; 
+	border-left-style:solid; 
+	border-top:thin; 
+	border-top-style:solid
+}
+TD.HeaderRight{
+	font: bold 11px Tahoma, Arial;
+	color: #747877;
+	text-decoration:none;
+	font-size:9px; 
+	border-left:thin; 
+	border-left-style:solid; 
+	border-top:thin; 
+	border-top-style:solid; 
+	border-right:thin solid
+}
+TD.GridSingleCell{
+	font: normal 11px Tahoma, Arial;
+	color: #747877;
+	border:thin solid
+}
+TD.GridLeftCell{
+	font: normal 11px Tahoma, Arial;
+	color: #747877;
+	border-left:thin; 
+	border-left-style:solid; 
+	border-top:thin; 
+	border-top-style:solid
+}
+TD.GridMiddleCell{
+	font: normal 11px Tahoma, Arial;
+	color: #747877;
+	border-left:thin; 
+	border-left-style:solid; 
+	border-top:thin; 
+	border-top-style:solid;
+}
+TD.GridRightCell{
+	font: normal 11px Tahoma, Arial;
+	color: #747877;
+	border-left:thin; 
+	border-left-style:solid; 
+	border-top:thin; 
+	border-top-style:solid; 
+	border-right:thin solid
+}
+TD.GridLeftCellSmall{
+	font: normal 11px Tahoma, Arial;
+	color: #747877;
+	font-size:9px; 
+	border-left:thin; 
+	border-left-style:solid; 
+	border-top:thin; 
+	border-top-style:solid
+}
+TD.GridMiddleCellSmall{
+	font: normal 11px Tahoma, Arial;
+	color: #747877;
+	font-size:9px; 
+	border-left:thin; 
+	border-left-style:solid; 
+	border-top:thin; 
+	border-top-style:solid
+}
+TD.GridRightCellSmall{
+	font: normal 11px Tahoma, Arial;
+	color: #747877;
+	font-size:9px; 
+	border-left:thin; 
+	border-left-style:solid; 
+	border-top:thin; 
+	border-top-style:solid
+}
+TD {
+	font: normal 11px Tahoma, Arial;
+	color: #747877;
+}
+TD.Report {
+	font: normal 8px Tahoma, Arial;
+	color: #747877;
+}
+TR.GridRow:hover, TR.GridRow:mouseover{
+	background-color:e8eff2;
+	cursor:pointer;
+}
+.px10 {
+	font-size: 10px;
+}
+.underline {
+	text-decoration: underline;
+}
+.px18 {
+	font-size: 18px;
+}
+.px12_Grey {
+	color: #666666;
+	font-size: 12px;
+	font-weight:bold;
+}
+.red {
+	color: #FF0000;
+}
+.blue_dark {
+	color: #23425A;
+}
+.blue {
+	color: #0066A4;
+}
+.grey {
+	color: #666666;
+}
+a.white-link-underline {	
+	text-decoration: underline;
+	color: #FFFFFF;
+}
+
+.Yellow-text-Heading{
+color:#FF0;
+font-weight:bold;
+text-decoration:underline
+
+}
+
+.Yellow-text-Heading-Normal{
+color:#FF0;
+font-weight:bold;
+text-decoration:none
+
+}
+
+a.Yellow-text-Heading{
+color:#FF0;
+font-weight:bold;
+text-decoration:underline
+
+}
+
+.white-text{
+color: #ffffff;
+
+}
+
+a.white-text:hover{
+color:#CCC;
+
+}
+
+a.white-text:link, a.white-text:active, a.white-text:visited{
+color:#ffffff;
+
+}
+
+a.white-text{
+color:#ffffff;
+
+}
+
+
+.blye-text-underline {
+color: #348cbc;
+text-decoration: underline;
+}
+
+.blye-text-regular {
+color: #348cbc;
+}
+
+.BlueText-Large{
+color: #348cbc;
+font-weight:bold;
+font-size:18px;
+text-decoration:none
+}
+
+.BlueText-Bold{
+color: #348cbc;
+font-weight:bold;
+text-decoration:none
+}
+a.BlueText-Bold:link, a.BlueText-Bold:active, a.BlueText-Bold:visited{
+color: #348cbc;
+font-weight:bold;
+text-decoration:none
+}
+.yellow-text-regular {
+color: #db9a00;
+}
+
+.yellow-text-underline {
+color: #db9a00;
+text-decoration: underline;
+}
+
+.orange-text-Large {
+color: #ca6011;
+font:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+}
+
+.orange-text-regular {
+color: #ca6011;
+}
+
+.orange-text-underline {
+color: #ca6011;
+text-decoration: underline;
+}
+
+.red-text-regular {
+color: #920f0d;
+}
+
+.red-text-underline {
+color: #920f0d;
+text-decoration: underline;
+}
+
+.red-text-bold-underline {
+color: #F00 ; font-size:12px; 
+text-decoration: underline;
+}
+
+.gray-text{
+color: #4c4c4c;
+}
+
+.dim-text{
+color:#CCC;
+}
+
+a.dim-text{
+color:#CCC;
+text-decoration:none;
+}
+
+.green-text{
+color: #76950b;
+text-decoration:none;
+}
+
+.GreenText{
+	color:#59b532;
+}
+
+.Left-Nav{
+	font-size:12px;
+	font-weight:bold;
+	color:#666;
+}
+
+.Left-Nav-Hover{
+	font-size:12px;
+	font-weight:bold;
+	color:#000;
+}
+
+.BoledText{
+	font: bold 11px Tahoma, Arial;
+	color: #747877;
+	text-decoration:none;
+}
+
+.BoledText-Report{
+	font:Tahoma, Geneva, sans-serif;
+	color: #747877;
+	font-weight:bold;
+	font-size:7px;
+	text-decoration:none;
+}
+
+a.BoledText{
+	font: bold 11px Tahoma, Arial;
+	color: #747877;
+	text-decoration:none;
+}
+
+a.BoledText:hover{
+	font: bold 11px Tahoma, Arial;
+	color:#515353;
+	text-decoration:none;
+}
+
+.LeftNavReg {
+
+	font-size:11px;
+	font-weight:normal;
+	color:#FCFDEE;
+	text-decoration:none;
+}
+
+a.LeftNavReg:link, a.LeftNavReg:active, a.LeftNavReg:visited {
+
+	font-size:11px;
+	font-weight:normal;
+	color:#FCFDEE;
+	text-decoration:none;
+}
+
+a.LeftNavReg:hover {
+
+	font-size:11px;
+	font-weight:normal;
+	color:#FCFDEE;
+	text-decoration: underline;
+}
+
+.LeftNav {
+
+	font-size:12px;
+	font-weight:bold;
+	color:#FCFDEE;
+	text-decoration:none;
+}
+
+a.LeftNav:link, a.LeftNav:active, a.LeftNav:visited {
+
+	font-size:12px;
+	font-weight:bold;
+	color:#FCFDEE;
+	text-decoration:none;
+}
+
+a.LeftNav:hover {
+
+	font-size:12px;
+	font-weight:bold;
+	color:#FCFDEE;
+	text-decoration: underline;
+}
+
+a.CustomLink {
+
+font: normal 11px Tahoma, Arial;
+color: #414141;
+}
+
+a.CustomLink:hover {
+
+font: normal 11px Tahoma, Arial;
+color:#069;
+text-decoration: none;
+
+}
+
+a.TopLink {
+
+font: bold 14px  Tahoma, Geneva, sans-serif;
+color:#FFF;
+text-decoration:none;
+}
+
+a.TopLink:hover {
+
+font: bold 14px  Tahoma, Geneva, sans-serif;
+color:#FFC;
+text-decoration: none;
+
+}
+
+admin.Adminbody {
+	background-color:#FFF;
+}
+
+.Heading{
+	font: bold 12px Tahoma, Arial;
+	color: #76950b;
+}
+
+.paddedText
+{
+padding: 10px 10px 5px 5px;
+} 

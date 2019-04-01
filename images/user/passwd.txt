@@ -1,0 +1,42 @@
+root:x:0:0:root:/root:/bin/bash
+bin:x:1:1:bin:/bin:/sbin/nologin
+daemon:x:2:2:daemon:/sbin:/sbin/nologin
+adm:x:3:4:adm:/var/adm:/sbin/nologin
+lp:x:4:7:lp:/var/spool/lpd:/sbin/nologin
+sync:x:5:0:sync:/sbin:/bin/sync
+shutdown:x:6:0:shutdown:/sbin:/sbin/shutdown
+halt:x:7:0:halt:/sbin:/sbin/halt
+mail:x:8:12:mail:/var/spool/mail:/sbin/nologin
+operator:x:11:0:operator:/root:/sbin/nologin
+games:x:12:100:games:/usr/games:/sbin/nologin
+ftp:x:14:50:FTP User:/var/ftp:/sbin/nologin
+nobody:x:99:99:Nobody:/:/sbin/nologin
+avahi-autoipd:x:170:170:Avahi IPv4LL Stack:/var/lib/avahi-autoipd:/sbin/nologin
+systemd-bus-proxy:x:999:997:systemd Bus Proxy:/:/sbin/nologin
+systemd-network:x:998:996:systemd Network Management:/:/sbin/nologin
+dbus:x:81:81:System message bus:/:/sbin/nologin
+polkitd:x:997:995:User for polkitd:/:/sbin/nologin
+tss:x:59:59:Account used by the trousers package to sandbox the tcsd daemon:/dev/null:/sbin/nologin
+postfix:x:89:89::/var/spool/postfix:/sbin/nologin
+sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin
+rpc:x:32:32:Rpcbind Daemon:/var/lib/rpcbind:/sbin/nologin
+named:x:25:25:Named:/var/named:/sbin/nologin
+nscd:x:28:28:NSCD Daemon:/:/sbin/nologin
+mailnull:x:47:47:Exim:/var/spool/mqueue:/bin/false
+cpanelroundcube:x:201:201::/var/cpanel/userhomes/cpanelroundcube:/usr/local/cpanel/bin/noshell
+mailman:x:996:993:GNU Mailing List Manager:/usr/local/cpanel/3rdparty/mailman:/bin/bash
+dovecot:x:97:97:Dovecot IMAP server:/usr/libexec/dovecot:/sbin/nologin
+dovenull:x:995:992:Dovecot's unauthorized user:/usr/libexec/dovecot:/sbin/nologin
+mysql:x:994:991:MySQL server:/var/lib/mysql:/bin/bash
+cpanel:x:202:202::/var/cpanel/userhomes/cpanel:/usr/local/cpanel/bin/noshell
+cpanelphpmyadmin:x:203:203::/var/cpanel/userhomes/cpanelphpmyadmin:/usr/local/cpanel/bin/noshell
+cpanelphppgadmin:x:204:204::/var/cpanel/userhomes/cpanelphppgadmin:/usr/local/cpanel/bin/noshell
+cpanelrrdtool:x:205:205::/var/cpanel/userhomes/cpanelrrdtool:/usr/local/cpanel/bin/noshell
+cpanellogin:x:993:989::/var/cpanel/userhomes/cpanellogin:/usr/local/cpanel/bin/noshell
+cpaneleximfilter:x:992:988::/var/cpanel/userhomes/cpaneleximfilter:/usr/local/cpanel/bin/noshell
+cpaneleximscanner:x:991:987::/var/cpanel/userhomes/cpaneleximscanner:/usr/local/cpanel/bin/noshell
+cpanelconnecttrack:x:990:986::/var/cpanel/userhomes/cpanelconnecttrack:/usr/local/cpanel/bin/noshell
+cpses:x:989:985::/var/cpanel/cpses:/sbin/nologin
+cpanelcabcache:x:988:983::/var/cpanel/userhomes/cpanelcabcache:/usr/local/cpanel/bin/noshell
+cpanelsolr:x:987:982:Solr Search Server for Dovecot:/home/cpanelsolr:/bin/false
+rdlpk:x:1213:1215::/home2/rdlpk:/usr/local/cpanel/bin/noshell

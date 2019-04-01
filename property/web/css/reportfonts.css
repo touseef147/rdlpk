@@ -1,0 +1,25 @@
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Californian FB';
+  src: local('Californian FB'), local('Californian FB'), url(font/CALIFB.TTF) format('ttf');
+}
+
+@font-face {
+  font-family: 'Segoe Script';
+  src: local('Segoe Script'), local('Segoe Script'), url(font/segoesc.TTF) format('ttf');
+}
+
+@font-face {
+  font-family: 'Segoe UI';
+  src: local('Segoe UI'), local('Segoe UI'), url(font/segoeui.TTF) format('ttf');
+}
+
+@font-face {
+  font-family: 'Segoe Print';
+  src: local('Segoe Print'), local('Segoe Print'), url(font/segoepr.TTF) format('ttf');
+}
+
+@font-face {
+  font-family: 'Century Schoolbook';
+  src: local('Century Schoolbook'), local('Century Schoolbook'), url(font/CENSCBK.TTF) format('ttf');
+}
